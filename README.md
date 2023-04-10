@@ -1,7 +1,7 @@
 # Programming In Math Assignments
 
 <h2>Description</h2>
-Assignment consists of intro mathematical modeling assingments done in Python. Throughout this semester course, main assignments covered Dimensional Analysis, Linear Models Using Regression and Data of Global Warming and Life Expectancy, Modeling Mortgage Payments, Mathematical Modeling by Linear Algebra: SVD Models.
+Assignment consists of Intro To Programming In Math assingments done in Python and LaTex. Throughout this semester course, main assignments covered basic introduction to Python libraries, command calls such as np.linspace, utilizing LaTex for markdown, as well as Taylor Series Approximations in Python.
 These assignments encapsulate the courseload for this class over the course of the semester. 
 <br />
 
@@ -9,6 +9,7 @@ These assignments encapsulate the courseload for this class over the course of t
 <h2>Languages and Utilities Used</h2>
 
 - <b>Python</b> 
+- <b>LaTex</b> 
 - <b>Jupyter Notebook</b>
 
 <h2>Environments Used </h2>
